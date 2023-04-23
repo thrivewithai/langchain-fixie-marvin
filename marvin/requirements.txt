@@ -1,0 +1,2 @@
+chromadb==0.3.21
+marvin==0.8.0

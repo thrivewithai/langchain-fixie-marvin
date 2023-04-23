@@ -1,0 +1,5 @@
+handle: state-of-the-union
+description: 'Agent that answers questions for the State of the Union (https://raw.githubusercontent.com/hwchase17/langchain/master/docs/modules/state_of_the_union.txt)'
+more_info_url: 'https://raw.githubusercontent.com/hwchase17/langchain/master/docs/modules/state_of_the_union.txt'
+entry_point: main:agent
+public: true
