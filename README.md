@@ -25,7 +25,7 @@ Pros:
 Cons:
 - It seems like you cannot choose how the text should be splitted (e.g., text-splitter in LangChain) 
 - More examples will be great (i.e., Chat with PDF) 
-- Ability to easily add third-party libraries 
+- Ability to easily add third-party libraries is missing
 
 Misc:
 - [Here](https://app.fixie.ai/agents/0xhiroki/state-of-the-union) is a link to my agent. 
@@ -41,4 +41,4 @@ Pros:
 
 Cons:
 - More examples will be great (e.g., Chat with PDF) 
-- Ability to easily add third-party libraries 
+- Ability to easily add third-party libraries is missing
